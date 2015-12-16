@@ -2,9 +2,14 @@
 Star Wars Markov generator, stealing code shamelessly and gratuitously from [@evelinag](https://github.com/evelinag)'s awesome F# Advent Post [Star Wars Social Networks](http://evelinag.com/blog/2015/12-15-star-wars-social-network/index.html#.VnDDKrCcH4Y).  Very simple bi-gram prediction which makes it very easy to avoid unmatched states.
 Be sure to grab the supporting files and edit the paths to find them (eg aliases.csv)
 
+If you want to mix in additional corpi, pass the additional text filenames on the command line. Pass them multiple times to increase their weight.
+
 Some sample output:
 ### Luke, I
 Luke, I didn't come back? <b>HAN </b>I don't blame you for bringing this to remember something. He looks around for another pass. <b> JANSON </b> Cable detached. <b>EXT. HOTH - ENTRANCE TO ICE GORGE - DUSK </b> They only work on him. Instantly, fiery liquid begins to chant. VALORUM talks to Chirpa and Logray, who listen and shake their heads negatively. The Medicine Man gestures toward the temple, barely visible in the gloom of the members of the fleet. <b>LANDO </b>All wings report in. <b> DACK </b> Luke, glancing over, sees Rogue Two <b>EXT. HOTH - SNOWDRIFT - DAY </b>LOW ANGLE. A
+
+### [using a random seed and mixing in Hamlet and Macbeth]
+ANAKIN I will. Ghost. My hour is almost knocked overboard; he sticks his computer arm into a heap of broken BATTLE DROID by pushing him into a fast; Thence to be spilt. \[Re-enter Horatio with Ophelia.\] Oph. Where is Duncans body? Macd. Carried to Colmekill, The Sacred Store-house of his ear-piercing howls. He grabs it between his howling and your lean beggar is but the name. To pay ourselves what to ourselves in our generation that will lead us to enter the huge round readout screen, listening to PALPATINE. ANAKIN: Chancellor, we have something to eat? She takes a step backward,
 
 ### JAR JAR
 JAR JAR follows. JAR JAR unhitch the back and plug him into position. <b> BEN </b> Only passengers. Myself, the boy, red his mother... WATTO tosses the dead creature. <b> LUKE </b> Is my mother here? <b> HAN </b> Star Destroyer. X-wings pilots head across the corridor every minute or so. DARTH MAUL standing in a bacta tank filled with IDENTICAL YOUNG BOY CLONES. <b> OBI-WAN </b> Wouldn't that be on record. The Council keeps pushing for more control. They're shrouded in an amazing reverse flip up to try to lose the TIE fighters. Laser bolts fly everywhere and surround the laser
