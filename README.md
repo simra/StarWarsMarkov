@@ -1,5 +1,5 @@
 ﻿
-Star Wars Markov generator, stealing code gratuitously from @evelgab.  Very simple bi-gram prediction which makes it very easy to avoid unmatched states.
+Star Wars Markov generator, stealing code shamelessly and gratuitously from [@evelinag](https://github.com/evelinag)'s [Star Wars Social Networks](http://evelinag.com/blog/2015/12-15-star-wars-social-network/index.html#.VnDDKrCcH4Y).  Very simple bi-gram prediction which makes it very easy to avoid unmatched states.
 Be sure to grab the supporting files and edit the paths to find them (eg aliases.csv)
 
 Some sample output:
