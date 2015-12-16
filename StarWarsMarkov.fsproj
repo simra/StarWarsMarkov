@@ -67,11 +67,11 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="FSharp.Data">
-      <HintPath>..\packages\FSharp.Data.2.2.5\lib\net40\FSharp.Data.dll</HintPath>
+      <HintPath>packages\FSharp.Data.2.2.5\lib\net40\FSharp.Data.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="FSharp.Data.TypeProviders">
-      <HintPath>..\packages\FSharp.Data.TypeProviders.0.0.1\lib\net40\FSharp.Data.TypeProviders.dll</HintPath>
+      <HintPath>packages\FSharp.Data.TypeProviders.0.0.1\lib\net40\FSharp.Data.TypeProviders.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="mscorlib" />

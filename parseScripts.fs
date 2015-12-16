@@ -67,7 +67,7 @@ let getFormat2Names text =
 // Some characters have multiple names - map their names onto pre-defined values
 // specified in 'aliases.csv'
 [<Literal>]
-let aliasFile = @"c:\GitHub\StarWarsMarkov\data\aliases.csv"
+let aliasFile = @"c:\GitHub\StarWarsMarkov\aliases.csv"
 type Aliases = CsvProvider<aliasFile>
 
 /// Dictinary for translating character names between aliases
